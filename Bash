@@ -1,0 +1,4 @@
+git rm --cached -r .
+git add .
+git commit -m "Fix: Refresh git index to apply binary attributes"
+git push
